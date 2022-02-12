@@ -9,3 +9,7 @@
 "build": "CI= react-scripts build",
 
 ```
+
+### Live Preview
+
+https://cocktail-react06.netlify.app/
